@@ -38,3 +38,9 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=marciopinho&show_icons=true" />
 </picture>
+
+<br>
+<br>
+<br>
+
+![](https://komarev.com/ghpvc/?username=marciopinho&style=flat-square&label=views&color=yellow)
