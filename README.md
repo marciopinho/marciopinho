@@ -21,14 +21,10 @@
 <img src="https://img.shields.io/badge/-indesign-FF3366?logo=adobe-indesign&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge"/>
 
-<h4>Pay me a visit at</h4> <a href="https://www.marciopinho.com"><img src="https://img.shields.io/badge/-marciopinho%2ecom-fbdc43?logo=stackblitz&logoColor=black&style=for-the-badge"/></a>
-
-<br>
-
+<h4>Pay me a visit at</h4> <a href="https://www.marciopinho.com" target="_blank"><img src="https://img.shields.io/badge/-marciopinho%2ecom-fbdc43?logo=stackblitz&logoColor=black&style=for-the-badge"/></a>
 
 <br>
 <br>
-
 <br>
 
 <picture>
