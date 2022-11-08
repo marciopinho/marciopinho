@@ -1,20 +1,35 @@
-# Márcio Pinho
-<!--
-**marciopinho/marciopinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Márcio Pinho</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h4>Developing with</h4>
 
-[![Márcio's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciopinho)](https://github.com/marciopinho/github-readme-stats)
--->
+<img src="https://img.shields.io/badge/-ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-sass-CC6699?logo=sass&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-sqlite-003B57?logo=sqlite&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge"/>
+
+<h4>Designing and prototyping with</h4>
+
+<img src="https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-indesign-FF3366?logo=adobe-indesign&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge"/>
+
+<h4>Pay me a visit at</h4> <a href="https://www.marciopinho.com"><img src="https://img.shields.io/badge/-marciopinho%2ecom-fbdc43?logo=stackblitz&logoColor=black&style=for-the-badge"/></a>
+
+<br>
+
+
+<br>
+<br>
+
+<br>
 
 <picture>
 <source 
